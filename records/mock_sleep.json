@@ -1,0 +1,981 @@
+[{
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": {
+            "day": 1,
+            "month": 4,
+            "year": 2017
+        },
+        "start_time": {
+            "hour": 1,
+            "minute": 23,
+            "second": 53,
+            "offset": "+2:00"
+        },
+        "end_time": {
+            "hour": 7,
+            "minute": 16,
+            "second": 6,
+            "offset": "+2:00"
+        },
+        "end_date": {
+            "day": 1,
+            "month": 4,
+            "year": 2017
+        },
+        "duration": "05:52:13",
+        "updated_start_date": {
+            "day": 1,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_start_time": {
+            "hour": 1,
+            "minute": 23,
+            "second": 53,
+            "offset": "+2:00"
+        },
+        "updated_end_time": {
+            "hour": 7,
+            "minute": 16,
+            "second": 6,
+            "offset": "+2:00"
+        },
+        "updated_end_date": {
+            "day": 1,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_duration": "05:52:13"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": {
+            "day": 2,
+            "month": 4,
+            "year": 2017
+        },
+        "start_time": {
+            "hour": 0,
+            "minute": 10,
+            "second": 40,
+            "offset": "+2:00"
+        },
+        "end_time": {
+            "hour": 6,
+            "minute": 56,
+            "second": 28,
+            "offset": "+2:00"
+        },
+        "end_date": {
+            "day": 2,
+            "month": 4,
+            "year": 2017
+        },
+        "duration": "06:45:48",
+        "updated_start_date": {
+            "day": 2,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_start_time": {
+            "hour": 0,
+            "minute": 10,
+            "second": 40,
+            "offset": "+2:00"
+        },
+        "updated_end_time": {
+            "hour": 6,
+            "minute": 56,
+            "second": 28,
+            "offset": "+2:00"
+        },
+        "updated_end_date": {
+            "day": 2,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_duration": "06:45:48"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": {
+            "day": 3,
+            "month": 4,
+            "year": 2017
+        },
+        "start_time": {
+            "hour": 3,
+            "minute": 50,
+            "second": 8,
+            "offset": "+2:00"
+        },
+        "end_time": {
+            "hour": 7,
+            "minute": 32,
+            "second": 2,
+            "offset": "+2:00"
+        },
+        "end_date": {
+            "day": 3,
+            "month": 4,
+            "year": 2017
+        },
+        "duration": "03:41:54",
+        "updated_start_date": {
+            "day": 3,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_start_time": {
+            "hour": 3,
+            "minute": 50,
+            "second": 8,
+            "offset": "+2:00"
+        },
+        "updated_end_time": {
+            "hour": 7,
+            "minute": 32,
+            "second": 2,
+            "offset": "+2:00"
+        },
+        "updated_end_date": {
+            "day": 3,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_duration": "03:41:54"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": {
+            "day": 4,
+            "month": 4,
+            "year": 2017
+        },
+        "start_time": {
+            "hour": 5,
+            "minute": 41,
+            "second": 47,
+            "offset": "+2:00"
+        },
+        "end_time": {
+            "hour": 8,
+            "minute": 55,
+            "second": 59,
+            "offset": "+2:00"
+        },
+        "end_date": {
+            "day": 4,
+            "month": 4,
+            "year": 2017
+        },
+        "duration": "03:14:12",
+        "updated_start_date": {
+            "day": 4,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_start_time": {
+            "hour": 5,
+            "minute": 41,
+            "second": 47,
+            "offset": "+2:00"
+        },
+        "updated_end_time": {
+            "hour": 8,
+            "minute": 55,
+            "second": 59,
+            "offset": "+2:00"
+        },
+        "updated_end_date": {
+            "day": 4,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_duration": "03:14:12"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": {
+            "day": 5,
+            "month": 4,
+            "year": 2017
+        },
+        "start_time": {
+            "hour": 0,
+            "minute": 30,
+            "second": 58,
+            "offset": "+2:00"
+        },
+        "end_time": {
+            "hour": 5,
+            "minute": 18,
+            "second": 49,
+            "offset": "+2:00"
+        },
+        "end_date": {
+            "day": 5,
+            "month": 4,
+            "year": 2017
+        },
+        "duration": "04:47:51",
+        "updated_start_date": {
+            "day": 5,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_start_time": {
+            "hour": 0,
+            "minute": 30,
+            "second": 58,
+            "offset": "+2:00"
+        },
+        "updated_end_time": {
+            "hour": 5,
+            "minute": 18,
+            "second": 49,
+            "offset": "+2:00"
+        },
+        "updated_end_date": {
+            "day": 5,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_duration": "04:47:51"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": {
+            "day": 6,
+            "month": 4,
+            "year": 2017
+        },
+        "start_time": {
+            "hour": 3,
+            "minute": 4,
+            "second": 25,
+            "offset": "+2:00"
+        },
+        "end_time": {
+            "hour": 7,
+            "minute": 21,
+            "second": 9,
+            "offset": "+2:00"
+        },
+        "end_date": {
+            "day": 6,
+            "month": 4,
+            "year": 2017
+        },
+        "duration": "04:16:44",
+        "updated_start_date": {
+            "day": 6,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_start_time": {
+            "hour": 3,
+            "minute": 4,
+            "second": 25,
+            "offset": "+2:00"
+        },
+        "updated_end_time": {
+            "hour": 7,
+            "minute": 21,
+            "second": 9,
+            "offset": "+2:00"
+        },
+        "updated_end_date": {
+            "day": 6,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_duration": "04:16:44"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": {
+            "day": 7,
+            "month": 4,
+            "year": 2017
+        },
+        "start_time": {
+            "hour": 1,
+            "minute": 32,
+            "second": 20,
+            "offset": "+2:00"
+        },
+        "end_time": {
+            "hour": 10,
+            "minute": 32,
+            "second": 11,
+            "offset": "+2:00"
+        },
+        "end_date": {
+            "day": 7,
+            "month": 4,
+            "year": 2017
+        },
+        "duration": "08:59:51",
+        "updated_start_date": {
+            "day": 7,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_start_time": {
+            "hour": 1,
+            "minute": 32,
+            "second": 20,
+            "offset": "+2:00"
+        },
+        "updated_end_time": {
+            "hour": 10,
+            "minute": 32,
+            "second": 11,
+            "offset": "+2:00"
+        },
+        "updated_end_date": {
+            "day": 7,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_duration": "08:59:51"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": {
+            "day": 8,
+            "month": 4,
+            "year": 2017
+        },
+        "start_time": {
+            "hour": 0,
+            "minute": 12,
+            "second": 31,
+            "offset": "+2:00"
+        },
+        "end_time": {
+            "hour": 10,
+            "minute": 25,
+            "second": 19,
+            "offset": "+2:00"
+        },
+        "end_date": {
+            "day": 8,
+            "month": 4,
+            "year": 2017
+        },
+        "duration": "10:12:48",
+        "updated_start_date": {
+            "day": 8,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_start_time": {
+            "hour": 0,
+            "minute": 12,
+            "second": 31,
+            "offset": "+2:00"
+        },
+        "updated_end_time": {
+            "hour": 10,
+            "minute": 25,
+            "second": 19,
+            "offset": "+2:00"
+        },
+        "updated_end_date": {
+            "day": 8,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_duration": "10:12:48"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": {
+            "day": 9,
+            "month": 4,
+            "year": 2017
+        },
+        "start_time": {
+            "hour": 2,
+            "minute": 39,
+            "second": 21,
+            "offset": "+2:00"
+        },
+        "end_time": {
+            "hour": 6,
+            "minute": 26,
+            "second": 32,
+            "offset": "+2:00"
+        },
+        "end_date": {
+            "day": 9,
+            "month": 4,
+            "year": 2017
+        },
+        "duration": "03:47:11",
+        "updated_start_date": {
+            "day": 9,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_start_time": {
+            "hour": 2,
+            "minute": 39,
+            "second": 21,
+            "offset": "+2:00"
+        },
+        "updated_end_time": {
+            "hour": 6,
+            "minute": 26,
+            "second": 32,
+            "offset": "+2:00"
+        },
+        "updated_end_date": {
+            "day": 9,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_duration": "03:47:11"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": {
+            "day": 10,
+            "month": 4,
+            "year": 2017
+        },
+        "start_time": {
+            "hour": 0,
+            "minute": 49,
+            "second": 59,
+            "offset": "+2:00"
+        },
+        "end_time": {
+            "hour": 5,
+            "minute": 5,
+            "second": 5,
+            "offset": "+2:00"
+        },
+        "end_date": {
+            "day": 10,
+            "month": 4,
+            "year": 2017
+        },
+        "duration": "04:15:06",
+        "updated_start_date": {
+            "day": 10,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_start_time": {
+            "hour": 0,
+            "minute": 49,
+            "second": 59,
+            "offset": "+2:00"
+        },
+        "updated_end_time": {
+            "hour": 5,
+            "minute": 5,
+            "second": 5,
+            "offset": "+2:00"
+        },
+        "updated_end_date": {
+            "day": 10,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_duration": "04:15:06"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": {
+            "day": 11,
+            "month": 4,
+            "year": 2017
+        },
+        "start_time": {
+            "hour": 0,
+            "minute": 58,
+            "second": 14,
+            "offset": "+2:00"
+        },
+        "end_time": {
+            "hour": 6,
+            "minute": 56,
+            "second": 17,
+            "offset": "+2:00"
+        },
+        "end_date": {
+            "day": 11,
+            "month": 4,
+            "year": 2017
+        },
+        "duration": "05:58:03",
+        "updated_start_date": {
+            "day": 11,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_start_time": {
+            "hour": 0,
+            "minute": 58,
+            "second": 14,
+            "offset": "+2:00"
+        },
+        "updated_end_time": {
+            "hour": 6,
+            "minute": 56,
+            "second": 17,
+            "offset": "+2:00"
+        },
+        "updated_end_date": {
+            "day": 11,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_duration": "05:58:03"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": {
+            "day": 12,
+            "month": 4,
+            "year": 2017
+        },
+        "start_time": {
+            "hour": 0,
+            "minute": 32,
+            "second": 52,
+            "offset": "+2:00"
+        },
+        "end_time": {
+            "hour": 11,
+            "minute": 54,
+            "second": 43,
+            "offset": "+2:00"
+        },
+        "end_date": {
+            "day": 12,
+            "month": 4,
+            "year": 2017
+        },
+        "duration": "11:21:51",
+        "updated_start_date": {
+            "day": 12,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_start_time": {
+            "hour": 0,
+            "minute": 32,
+            "second": 52,
+            "offset": "+2:00"
+        },
+        "updated_end_time": {
+            "hour": 11,
+            "minute": 54,
+            "second": 43,
+            "offset": "+2:00"
+        },
+        "updated_end_date": {
+            "day": 12,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_duration": "11:21:51"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": {
+            "day": 13,
+            "month": 4,
+            "year": 2017
+        },
+        "start_time": {
+            "hour": 1,
+            "minute": 12,
+            "second": 36,
+            "offset": "+2:00"
+        },
+        "end_time": {
+            "hour": 6,
+            "minute": 36,
+            "second": 26,
+            "offset": "+2:00"
+        },
+        "end_date": {
+            "day": 13,
+            "month": 4,
+            "year": 2017
+        },
+        "duration": "05:23:50",
+        "updated_start_date": {
+            "day": 13,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_start_time": {
+            "hour": 1,
+            "minute": 12,
+            "second": 36,
+            "offset": "+2:00"
+        },
+        "updated_end_time": {
+            "hour": 6,
+            "minute": 36,
+            "second": 26,
+            "offset": "+2:00"
+        },
+        "updated_end_date": {
+            "day": 13,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_duration": "05:23:50"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": {
+            "day": 14,
+            "month": 4,
+            "year": 2017
+        },
+        "start_time": {
+            "hour": 0,
+            "minute": 57,
+            "second": 11,
+            "offset": "+2:00"
+        },
+        "end_time": {
+            "hour": 2,
+            "minute": 14,
+            "second": 36,
+            "offset": "+2:00"
+        },
+        "end_date": {
+            "day": 14,
+            "month": 4,
+            "year": 2017
+        },
+        "duration": "01:17:25",
+        "updated_start_date": {
+            "day": 14,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_start_time": {
+            "hour": 0,
+            "minute": 57,
+            "second": 11,
+            "offset": "+2:00"
+        },
+        "updated_end_time": {
+            "hour": 2,
+            "minute": 14,
+            "second": 36,
+            "offset": "+2:00"
+        },
+        "updated_end_date": {
+            "day": 14,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_duration": "01:17:25"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": {
+            "day": 14,
+            "month": 4,
+            "year": 2017
+        },
+        "start_time": {
+            "hour": 3,
+            "minute": 42,
+            "second": 46,
+            "offset": "+2:00"
+        },
+        "end_time": {
+            "hour": 8,
+            "minute": 3,
+            "second": 15,
+            "offset": "+2:00"
+        },
+        "end_date": {
+            "day": 14,
+            "month": 4,
+            "year": 2017
+        },
+        "duration": "04:20:29",
+        "updated_start_date": {
+            "day": 14,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_start_time": {
+            "hour": 3,
+            "minute": 42,
+            "second": 46,
+            "offset": "+2:00"
+        },
+        "updated_end_time": {
+            "hour": 8,
+            "minute": 3,
+            "second": 15,
+            "offset": "+2:00"
+        },
+        "updated_end_date": {
+            "day": 14,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_duration": "04:20:29"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": {
+            "day": 15,
+            "month": 4,
+            "year": 2017
+        },
+        "start_time": {
+            "hour": 1,
+            "minute": 13,
+            "second": 2,
+            "offset": "+2:00"
+        },
+        "end_time": {
+            "hour": 4,
+            "minute": 4,
+            "second": 35,
+            "offset": "+2:00"
+        },
+        "end_date": {
+            "day": 15,
+            "month": 4,
+            "year": 2017
+        },
+        "duration": "02:51:33",
+        "updated_start_date": {
+            "day": 15,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_start_time": {
+            "hour": 1,
+            "minute": 13,
+            "second": 2,
+            "offset": "+2:00"
+        },
+        "updated_end_time": {
+            "hour": 4,
+            "minute": 4,
+            "second": 35,
+            "offset": "+2:00"
+        },
+        "updated_end_date": {
+            "day": 15,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_duration": "02:51:33"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": {
+            "day": 15,
+            "month": 4,
+            "year": 2017
+        },
+        "start_time": {
+            "hour": 5,
+            "minute": 38,
+            "second": 52,
+            "offset": "+2:00"
+        },
+        "end_time": {
+            "hour": 9,
+            "minute": 50,
+            "second": 35,
+            "offset": "+2:00"
+        },
+        "end_date": {
+            "day": 15,
+            "month": 4,
+            "year": 2017
+        },
+        "duration": "04:11:43",
+        "updated_start_date": {
+            "day": 15,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_start_time": {
+            "hour": 5,
+            "minute": 38,
+            "second": 52,
+            "offset": "+2:00"
+        },
+        "updated_end_time": {
+            "hour": 9,
+            "minute": 50,
+            "second": 35,
+            "offset": "+2:00"
+        },
+        "updated_end_date": {
+            "day": 15,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_duration": "04:11:43"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": {
+            "day": 16,
+            "month": 4,
+            "year": 2017
+        },
+        "start_time": {
+            "hour": 0,
+            "minute": 2,
+            "second": 57,
+            "offset": "+2:00"
+        },
+        "end_time": {
+            "hour": 2,
+            "minute": 50,
+            "second": 20,
+            "offset": "+2:00"
+        },
+        "end_date": {
+            "day": 16,
+            "month": 4,
+            "year": 2017
+        },
+        "duration": "02:47:23",
+        "updated_start_date": {
+            "day": 16,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_start_time": {
+            "hour": 0,
+            "minute": 2,
+            "second": 57,
+            "offset": "+2:00"
+        },
+        "updated_end_time": {
+            "hour": 2,
+            "minute": 50,
+            "second": 20,
+            "offset": "+2:00"
+        },
+        "updated_end_date": {
+            "day": 16,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_duration": "02:47:23"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": {
+            "day": 16,
+            "month": 4,
+            "year": 2017
+        },
+        "start_time": {
+            "hour": 3,
+            "minute": 36,
+            "second": 49,
+            "offset": "+2:00"
+        },
+        "end_time": {
+            "hour": 5,
+            "minute": 44,
+            "second": 8,
+            "offset": "+2:00"
+        },
+        "end_date": {
+            "day": 16,
+            "month": 4,
+            "year": 2017
+        },
+        "duration": "02:07:19",
+        "updated_start_date": {
+            "day": 16,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_start_time": {
+            "hour": 3,
+            "minute": 36,
+            "second": 49,
+            "offset": "+2:00"
+        },
+        "updated_end_time": {
+            "hour": 5,
+            "minute": 44,
+            "second": 8,
+            "offset": "+2:00"
+        },
+        "updated_end_date": {
+            "day": 16,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_duration": "02:07:19"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": {
+            "day": 16,
+            "month": 4,
+            "year": 2017
+        },
+        "start_time": {
+            "hour": 6,
+            "minute": 22,
+            "second": 23,
+            "offset": "+2:00"
+        },
+        "end_time": {
+            "hour": 9,
+            "minute": 2,
+            "second": 0,
+            "offset": "+2:00"
+        },
+        "end_date": {
+            "day": 16,
+            "month": 4,
+            "year": 2017
+        },
+        "duration": "02:39:37",
+        "updated_start_date": {
+            "day": 16,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_start_time": {
+            "hour": 6,
+            "minute": 22,
+            "second": 23,
+            "offset": "+2:00"
+        },
+        "updated_end_time": {
+            "hour": 9,
+            "minute": 2,
+            "second": 0,
+            "offset": "+2:00"
+        },
+        "updated_end_date": {
+            "day": 16,
+            "month": 4,
+            "year": 2017
+        },
+        "updated_duration": "02:39:37"
+    }
+]

@@ -1,0 +1,151 @@
+[{
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": {
+            "day": 10,
+            "month": 3,
+            "year": 2017
+        },
+        "start_time": {
+            "hour": 12,
+            "minute": 43,
+            "second": 12,
+            "offset": "+2:00"
+        },
+        "location": {
+            "lat": "",
+            "long": ""
+        },
+        "duration": "01:32:14",
+        "source": "Facebook",
+        "category": "Social Media",
+        "productive": false,
+        "updated_productive": false,
+        "activity": "Wasting Time",
+        "updated_activity": "Wasting Time"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": {
+            "day": 10,
+            "month": 3,
+            "year": 2017
+        },
+        "start_time": {
+            "hour": 14,
+            "minute": 43,
+            "second": 12,
+            "offset": "+2:00"
+        },
+        "location": {
+            "lat": "",
+            "long": ""
+        },
+        "duration": "01:02:14",
+        "source": "Facebook",
+        "category": "Social Media",
+        "productive": false,
+        "updated_productive": false,
+        "activity": "Wasting Time",
+        "updated_activity": "Wasting Time"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": {
+            "day": 10,
+            "month": 3,
+            "year": 2017
+        },
+        "start_time": {
+            "hour": 16,
+            "minute": 43,
+            "second": 12,
+            "offset": "+2:00"
+        },
+        "location": {
+            "lat": "",
+            "long": ""
+        },
+        "duration": "00:32:14",
+        "source": "Facebook",
+        "category": "Social Media",
+        "productive": false,
+        "updated_productive": false,
+        "activity": "Wasting Time",
+        "updated_activity": "Wasting Time"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": {
+            "day": 10,
+            "month": 3,
+            "year": 2017
+        },
+        "start_time": {
+            "hour": 18,
+            "minute": 43,
+            "second": 12,
+            "offset": "+2:00"
+        },
+        "location": {
+            "lat": "",
+            "long": ""
+        },
+        "duration": "00:42:14",
+        "source": "Facebook",
+        "category": "Social Media",
+        "productive": false,
+        "updated_productive": false,
+        "activity": "Wasting Time",
+        "updated_activity": "Wasting Time"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": {
+            "day": 10,
+            "month": 3,
+            "year": 2017
+        },
+        "start_time": {
+            "hour": 20,
+            "minute": 43,
+            "second": 12,
+            "offset": "+2:00"
+        },
+        "location": {
+            "lat": "",
+            "long": ""
+        },
+        "duration": "00:04:14",
+        "source": "Facebook",
+        "category": "Social Media",
+        "productive": false,
+        "updated_productive": false,
+        "activity": "Wasting Time",
+        "updated_activity": "Wasting Time"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": {
+            "day": 10,
+            "month": 3,
+            "year": 2017
+        },
+        "start_time": {
+            "hour": 22,
+            "minute": 43,
+            "second": 12,
+            "offset": "+2:00"
+        },
+        "location": {
+            "lat": "",
+            "long": ""
+        },
+        "duration": "00:22:14",
+        "source": "Facebook",
+        "category": "Social Media",
+        "productive": false,
+        "updated_productive": false,
+        "activity": "Wasting Time",
+        "updated_activity": "Wasting Time"
+    }
+]

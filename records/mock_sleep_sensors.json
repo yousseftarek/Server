@@ -1,0 +1,722 @@
+[{
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 24,
+            "month": 3,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 2,
+            "minute": 28,
+            "second": 35
+        }],
+        "end_date": [{
+            "day": 24,
+            "month": 3,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 8,
+            "minute": 40,
+            "second": 35
+        }],
+        "duration": "06:12:00"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 24,
+            "month": 3,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 22,
+            "minute": 17,
+            "second": 0
+        }],
+        "end_date": [{
+            "day": 25,
+            "month": 3,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 7,
+            "minute": 53,
+            "second": 0
+        }],
+        "duration": "09:36:00"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 25,
+            "month": 3,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 21,
+            "minute": 46,
+            "second": 36
+        }],
+        "end_date": [{
+            "day": 25,
+            "month": 3,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 22,
+            "minute": 36,
+            "second": 42
+        }],
+        "duration": "00:50:00"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 26,
+            "month": 3,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 1,
+            "minute": 5,
+            "second": 46
+        }],
+        "end_date": [{
+            "day": 26,
+            "month": 3,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 7,
+            "minute": 55,
+            "second": 30
+        }],
+        "duration": "06:50:00"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 26,
+            "month": 3,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 23,
+            "minute": 58,
+            "second": 32
+        }],
+        "end_date": [{
+            "day": 27,
+            "month": 3,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 2,
+            "minute": 46,
+            "second": 2
+        }],
+        "duration": "02:48:00"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 27,
+            "month": 3,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 3,
+            "minute": 6,
+            "second": 26
+        }],
+        "end_date": [{
+            "day": 27,
+            "month": 3,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 4,
+            "minute": 16,
+            "second": 20
+        }],
+        "duration": "01:10:00"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 27,
+            "month": 3,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 4,
+            "minute": 35,
+            "second": 3
+        }],
+        "end_date": [{
+            "day": 27,
+            "month": 3,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 8,
+            "minute": 23,
+            "second": 1
+        }],
+        "duration": "03:48:00"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 27,
+            "month": 3,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 22,
+            "minute": 3,
+            "second": 50
+        }],
+        "end_date": [{
+            "day": 27,
+            "month": 3,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 23,
+            "minute": 34,
+            "second": 55
+        }],
+        "duration": "01:31:00"
+    },
+    {
+        "_comment": "comment text goes here...",
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 12,
+            "month": 12,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 17,
+            "minute": 17,
+            "second": 44
+        }],
+        "end_date": [{
+            "day": 31,
+            "month": 4,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 8,
+            "minute": 55,
+            "second": 49
+        }],
+        "duration": "13:37"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 14,
+            "month": 10,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 20,
+            "minute": 40,
+            "second": 25
+        }],
+        "end_date": [{
+            "day": 4,
+            "month": 3,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 3,
+            "minute": 36,
+            "second": 57
+        }],
+        "duration": "3:57"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 14,
+            "month": 9,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 3,
+            "minute": 15,
+            "second": 9
+        }],
+        "end_date": [{
+            "day": 25,
+            "month": 4,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 20,
+            "minute": 59,
+            "second": 22
+        }],
+        "duration": "10:45"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 1,
+            "month": 2,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 20,
+            "minute": 22,
+            "second": 24
+        }],
+        "end_date": [{
+            "day": 14,
+            "month": 5,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 11,
+            "minute": 42,
+            "second": 31
+        }],
+        "duration": "7:47"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 24,
+            "month": 8,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 23,
+            "minute": 55,
+            "second": 38
+        }],
+        "end_date": [{
+            "day": 18,
+            "month": 2,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 0,
+            "minute": 49,
+            "second": 29
+        }],
+        "duration": "7:23"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 10,
+            "month": 5,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 1,
+            "minute": 17,
+            "second": 11
+        }],
+        "end_date": [{
+            "day": 20,
+            "month": 9,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 21,
+            "minute": 19,
+            "second": 30
+        }],
+        "duration": "21:16"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 25,
+            "month": 9,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 23,
+            "minute": 28,
+            "second": 48
+        }],
+        "end_date": [{
+            "day": 22,
+            "month": 11,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 6,
+            "minute": 40,
+            "second": 47
+        }],
+        "duration": "13:46"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 3,
+            "month": 10,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 23,
+            "minute": 25,
+            "second": 13
+        }],
+        "end_date": [{
+            "day": 11,
+            "month": 4,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 11,
+            "minute": 41,
+            "second": 1
+        }],
+        "duration": "18:46"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 27,
+            "month": 12,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 0,
+            "minute": 11,
+            "second": 19
+        }],
+        "end_date": [{
+            "day": 28,
+            "month": 12,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 11,
+            "minute": 22,
+            "second": 44
+        }],
+        "duration": "7:32"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 10,
+            "month": 1,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 12,
+            "minute": 54,
+            "second": 19
+        }],
+        "end_date": [{
+            "day": 29,
+            "month": 10,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 21,
+            "minute": 53,
+            "second": 53
+        }],
+        "duration": "17:36"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 28,
+            "month": 8,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 18,
+            "minute": 4,
+            "second": 29
+        }],
+        "end_date": [{
+            "day": 14,
+            "month": 4,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 9,
+            "minute": 10,
+            "second": 42
+        }],
+        "duration": "22:24"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 23,
+            "month": 4,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 6,
+            "minute": 41,
+            "second": 36
+        }],
+        "end_date": [{
+            "day": 15,
+            "month": 4,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 14,
+            "minute": 52,
+            "second": 13
+        }],
+        "duration": "7:33"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 29,
+            "month": 9,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 17,
+            "minute": 21,
+            "second": 25
+        }],
+        "end_date": [{
+            "day": 15,
+            "month": 9,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 8,
+            "minute": 27,
+            "second": 2
+        }],
+        "duration": "23:46"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 13,
+            "month": 10,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 6,
+            "minute": 32,
+            "second": 52
+        }],
+        "end_date": [{
+            "day": 27,
+            "month": 2,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 13,
+            "minute": 47,
+            "second": 10
+        }],
+        "duration": "8:51"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 23,
+            "month": 1,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 12,
+            "minute": 50,
+            "second": 43
+        }],
+        "end_date": [{
+            "day": 13,
+            "month": 2,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 5,
+            "minute": 21,
+            "second": 23
+        }],
+        "duration": "16:23"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 8,
+            "month": 1,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 16,
+            "minute": 38,
+            "second": 29
+        }],
+        "end_date": [{
+            "day": 2,
+            "month": 2,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 21,
+            "minute": 52,
+            "second": 51
+        }],
+        "duration": "3:21"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 13,
+            "month": 12,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 22,
+            "minute": 16,
+            "second": 35
+        }],
+        "end_date": [{
+            "day": 8,
+            "month": 8,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 18,
+            "minute": 36,
+            "second": 6
+        }],
+        "duration": "9:20"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 27,
+            "month": 1,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 1,
+            "minute": 43,
+            "second": 42
+        }],
+        "end_date": [{
+            "day": 5,
+            "month": 1,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 16,
+            "minute": 57,
+            "second": 41
+        }],
+        "duration": "6:21"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 5,
+            "month": 1,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 20,
+            "minute": 59,
+            "second": 26
+        }],
+        "end_date": [{
+            "day": 13,
+            "month": 11,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 7,
+            "minute": 19,
+            "second": 18
+        }],
+        "duration": "18:49"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 5,
+            "month": 5,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 10,
+            "minute": 6,
+            "second": 50
+        }],
+        "end_date": [{
+            "day": 22,
+            "month": 4,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 4,
+            "minute": 1,
+            "second": 22
+        }],
+        "duration": "7:58"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 17,
+            "month": 1,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 16,
+            "minute": 47,
+            "second": 10
+        }],
+        "end_date": [{
+            "day": 6,
+            "month": 9,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 9,
+            "minute": 52,
+            "second": 45
+        }],
+        "duration": "17:33"
+    },
+    {
+        "user_id": "58c698116c42f7a598a0a440",
+        "start_date": [{
+            "day": 25,
+            "month": 2,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 9,
+            "minute": 2,
+            "second": 8
+        }],
+        "end_date": [{
+            "day": 30,
+            "month": 9,
+            "year": 2017
+        }],
+        "end_time": [{
+            "hour": 0,
+            "minute": 46,
+            "second": 25
+        }],
+        "duration": "3:50"
+    }
+]

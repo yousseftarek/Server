@@ -1,0 +1,251 @@
+[{
+        "user_id": 1,
+        "start_date": [{
+            "day": 1,
+            "month": 3,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 15,
+            "minute": 24,
+            "second": 0,
+            "offset": "Syntax error in formula 'this = +02:00'"
+        }],
+        "duration": "2:21 AM",
+        "location": [{
+            "lat": -31.787085,
+            "long": 162.180904
+        }],
+        "category": "quis",
+        "activity": "Nothing",
+        "source": "App",
+        "productive": false,
+        "updated_productive": false,
+        "updated_activity": "App"
+    },
+    {
+        "user_id": 1,
+        "start_date": [{
+            "day": 1,
+            "month": 3,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 15,
+            "minute": 24,
+            "second": 0,
+            "offset": "Syntax error in formula 'this = +02:00'"
+        }],
+        "duration": "1:02 AM",
+        "location": [{
+            "lat": -66.639401,
+            "long": -59.303222
+        }],
+        "category": "justo",
+        "activity": "Nothing",
+        "source": "App",
+        "productive": false,
+        "updated_productive": false,
+        "updated_activity": "App"
+    },
+    {
+        "user_id": 1,
+        "start_date": [{
+            "day": 1,
+            "month": 3,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 15,
+            "minute": 24,
+            "second": 0,
+            "offset": "Syntax error in formula 'this = +02:00'"
+        }],
+        "duration": "1:21 AM",
+        "location": [{
+            "lat": -72.789315,
+            "long": 151.381197
+        }],
+        "category": "turpis",
+        "activity": "Nothing",
+        "source": "App",
+        "productive": false,
+        "updated_productive": false,
+        "updated_activity": "App"
+    },
+    {
+        "user_id": 1,
+        "start_date": [{
+            "day": 1,
+            "month": 3,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 15,
+            "minute": 24,
+            "second": 0,
+            "offset": "Syntax error in formula 'this = +02:00'"
+        }],
+        "duration": "2:12 AM",
+        "location": [{
+            "lat": 52.148612,
+            "long": -85.385419
+        }],
+        "category": "ipsum",
+        "activity": "Nothing",
+        "source": "App",
+        "productive": false,
+        "updated_productive": false,
+        "updated_activity": "App"
+    },
+    {
+        "user_id": 1,
+        "start_date": [{
+            "day": 1,
+            "month": 3,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 15,
+            "minute": 24,
+            "second": 0,
+            "offset": "Syntax error in formula 'this = +02:00'"
+        }],
+        "duration": "1:29 AM",
+        "location": [{
+            "lat": -79.033743,
+            "long": 153.825743
+        }],
+        "category": "tortor",
+        "activity": "Nothing",
+        "source": "App",
+        "productive": false,
+        "updated_productive": false,
+        "updated_activity": "App"
+    },
+    {
+        "user_id": 1,
+        "start_date": [{
+            "day": 1,
+            "month": 3,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 15,
+            "minute": 24,
+            "second": 0,
+            "offset": "Syntax error in formula 'this = +02:00'"
+        }],
+        "duration": "2:59 AM",
+        "location": [{
+            "lat": 0.04231,
+            "long": -138.06378
+        }],
+        "category": "ornare",
+        "activity": "Nothing",
+        "source": "App",
+        "productive": false,
+        "updated_productive": false,
+        "updated_activity": "App"
+    },
+    {
+        "user_id": 1,
+        "start_date": [{
+            "day": 1,
+            "month": 3,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 15,
+            "minute": 24,
+            "second": 0,
+            "offset": "Syntax error in formula 'this = +02:00'"
+        }],
+        "duration": "2:19 AM",
+        "location": [{
+            "lat": 59.969599,
+            "long": 150.828167
+        }],
+        "category": "aenean",
+        "activity": "Nothing",
+        "source": "App",
+        "productive": false,
+        "updated_productive": false,
+        "updated_activity": "App"
+    },
+    {
+        "user_id": 1,
+        "start_date": [{
+            "day": 1,
+            "month": 3,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 15,
+            "minute": 24,
+            "second": 0,
+            "offset": "Syntax error in formula 'this = +02:00'"
+        }],
+        "duration": "1:40 AM",
+        "location": [{
+            "lat": -44.487601,
+            "long": -50.470612
+        }],
+        "category": "maecenas",
+        "activity": "Nothing",
+        "source": "App",
+        "productive": false,
+        "updated_productive": false,
+        "updated_activity": "App"
+    },
+    {
+        "user_id": 1,
+        "start_date": [{
+            "day": 1,
+            "month": 3,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 15,
+            "minute": 24,
+            "second": 0,
+            "offset": "Syntax error in formula 'this = +02:00'"
+        }],
+        "duration": "2:21 AM",
+        "location": [{
+            "lat": 73.085982,
+            "long": 1.339979
+        }],
+        "category": "turpis",
+        "activity": "Nothing",
+        "source": "App",
+        "productive": false,
+        "updated_productive": false,
+        "updated_activity": "App"
+    },
+    {
+        "user_id": 1,
+        "start_date": [{
+            "day": 1,
+            "month": 3,
+            "year": 2017
+        }],
+        "start_time": [{
+            "hour": 15,
+            "minute": 24,
+            "second": 0,
+            "offset": "Syntax error in formula 'this = +02:00'"
+        }],
+        "duration": "2:58 AM",
+        "location": [{
+            "lat": -61.83142,
+            "long": 110.910474
+        }],
+        "category": "enim",
+        "activity": "Nothing",
+        "source": "App",
+        "productive": false,
+        "updated_productive": false,
+        "updated_activity": "App"
+    }
+]

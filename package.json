@@ -1,0 +1,17 @@
+{
+  "name": "MyLife_Server",
+  "version": "1.0.0",
+  "description": "The backend server to hold the data of the users of MyLife Application.",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "body-parser": "^1.17.1",
+    "express": "4.13.4",
+    "jsonwebtoken": "^7.3.0",
+    "moment": "^2.17.1",
+    "mongodb": "2.2.24",
+    "morgan": "^1.8.1"
+  }
+}

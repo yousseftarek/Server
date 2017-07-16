@@ -1,0 +1,291 @@
+[{
+        "provider": "gps",
+        "lat": "29.986662",
+        "long": "31.438701",
+        "issued_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:43:40",
+            "offset": "+2:00"
+        },
+        "created_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:44:40",
+            "offset": "+2:00"
+        },
+        "updated_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:45:40",
+            "offset": "+2:00"
+        },
+        "user_id": "58c698116c42f7a598a0a440",
+        "updated_lat": "29.986662",
+        "updated_long": "31.438701"
+    },
+    {
+        "provider": "gps",
+        "lat": "30.005717",
+        "long": "31.436471",
+        "issued_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:44:40",
+            "offset": "+2:00"
+        },
+        "created_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:45:40",
+            "offset": "+2:00"
+        },
+        "updated_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:46:40",
+            "offset": "+2:00"
+        },
+        "user_id": "58c698116c42f7a598a0a440",
+        "updated_lat": "30.005717",
+        "updated_long": "31.436471"
+    },
+    {
+        "provider": "gps",
+        "lat": "30.005486",
+        "long": "31.444650",
+        "issued_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:45:40",
+            "offset": "+2:00"
+        },
+        "created_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:46:40",
+            "offset": "+2:00"
+        },
+        "updated_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:47:40",
+            "offset": "+2:00"
+        },
+        "user_id": "58c698116c42f7a598a0a440",
+        "updated_lat": "30.005486",
+        "updated_long": "31.444650"
+    },
+    {
+        "provider": "gps",
+        "lat": "30.018917",
+        "long": "31.448883",
+        "issued_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:46:40",
+            "offset": "+2:00"
+        },
+        "created_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:47:40",
+            "offset": "+2:00"
+        },
+        "updated_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:48:40",
+            "offset": "+2:00"
+        },
+        "user_id": "58c698116c42f7a598a0a440",
+        "updated_lat": "30.018917",
+        "updated_long": "31.448883"
+    },
+    {
+        "provider": "gps",
+        "lat": "30.015435",
+        "long": "31.461966",
+        "issued_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:47:40",
+            "offset": "+2:00"
+        },
+        "created_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:48:40",
+            "offset": "+2:00"
+        },
+        "updated_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:49:40",
+            "offset": "+2:00"
+        },
+        "user_id": "58c698116c42f7a598a0a440",
+        "updated_lat": "30.015435",
+        "updated_long": "31.461966"
+    },
+    {
+        "provider": "gps",
+        "lat": "30.028086",
+        "long": "31.409505",
+        "issued_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:48:40",
+            "offset": "+2:00"
+        },
+        "created_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:49:40",
+            "offset": "+2:00"
+        },
+        "updated_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:50:40",
+            "offset": "+2:00"
+        },
+        "user_id": "58c698116c42f7a598a0a440",
+        "updated_lat": "30.028086",
+        "updated_long": "31.409505"
+    },
+    {
+        "provider": "gps",
+        "lat": "30.047184",
+        "long": "31.350130",
+        "issued_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:49:40",
+            "offset": "+2:00"
+        },
+        "created_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:50:40",
+            "offset": "+2:00"
+        },
+        "updated_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:51:40",
+            "offset": "+2:00"
+        },
+        "user_id": "58c698116c42f7a598a0a440",
+        "updated_lat": "30.047184",
+        "updated_long": "31.350130"
+    },
+    {
+        "provider": "gps",
+        "lat": "30.072622",
+        "long": "31.345140",
+        "issued_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:50:40",
+            "offset": "+2:00"
+        },
+        "created_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:51:40",
+            "offset": "+2:00"
+        },
+        "updated_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:52:40",
+            "offset": "+2:00"
+        },
+        "user_id": "58c698116c42f7a598a0a440",
+        "updated_lat": "30.072622",
+        "updated_long": "31.345140"
+    },
+    {
+        "provider": "gps",
+        "lat": "30.068632",
+        "long": "31.337926",
+        "issued_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:51:40",
+            "offset": "+2:00"
+        },
+        "created_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:52:40",
+            "offset": "+2:00"
+        },
+        "updated_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:53:40",
+            "offset": "+2:00"
+        },
+        "user_id": "58c698116c42f7a598a0a440",
+        "updated_lat": "30.068632",
+        "updated_long": "31.337926"
+    },
+    {
+        "provider": "gps",
+        "lat": "30.040630",
+        "long": "31.231037",
+        "issued_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:52:40",
+            "offset": "+2:00"
+        },
+        "created_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:53:40",
+            "offset": "+2:00"
+        },
+        "updated_at": {
+            "day": 13,
+            "month": 3,
+            "year": 2017,
+            "time": "12:54:40",
+            "offset": "+2:00"
+        },
+        "user_id": "58c698116c42f7a598a0a440",
+        "updated_lat": "30.040630",
+        "updated_long": "31.231037"
+    }
+]

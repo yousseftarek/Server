@@ -1,0 +1,12 @@
+[{
+    "name": "User's Name - String",
+    "email": "User's Email - String",
+    "password": "User's Password (Encrypted) - String",
+    "gender": "User's Gender - String",
+    "birthday": "User's Birthday - String",
+    "tokens": "Social Media Authorization Tokens - Array of JSON Objects"
+  },
+  {
+
+  }
+]
